@@ -5,3 +5,6 @@ print('Hello world, Scikit-learn version: %s' % sklearn.__version__)
 
 # Please provide the code you have written so far and the specific problem you are facing.
 print('Welcome to the AI-Powered Malware Detection system! I will guide you through the process.')
+
+# IT HAD TO BE ADDED
+print('1. Data Preprocessing:')
